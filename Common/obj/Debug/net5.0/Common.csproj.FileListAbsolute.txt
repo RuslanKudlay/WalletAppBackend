@@ -1,0 +1,15 @@
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\bin\Debug\net5.0\Common.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.pdb
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\bin\Debug\net5.0\DAL.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\bin\Debug\net5.0\DAL.pdb
+C:\Users\Руслан\source\repos\WalletAppBackend\Common\obj\Debug\net5.0\Common.csproj.CopyComplete

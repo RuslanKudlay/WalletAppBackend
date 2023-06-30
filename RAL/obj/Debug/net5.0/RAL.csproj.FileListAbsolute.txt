@@ -1,0 +1,15 @@
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\bin\Debug\net5.0\RAL.deps.json
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\bin\Debug\net5.0\RAL.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\bin\Debug\net5.0\ref\RAL.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\bin\Debug\net5.0\RAL.pdb
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.csproj.AssemblyReference.cache
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.AssemblyInfoInputs.cache
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.AssemblyInfo.cs
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\ref\RAL.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.pdb
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Руслан\source\repos\WalletAppBackend\RAL\obj\Debug\net5.0\RAL.csproj.CopyComplete
